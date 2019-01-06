@@ -1,7 +1,7 @@
-# React-powered e-commerce with Gatsby
+# Green's Gourmet web shop
 
-![Gatsby-react-ecommerce](https://snipcart.com/media/203950/react-gatsby-ecommerce-1.jpg)
+![a96c948d-c83b-4681-942a-a97606a75521](https://user-images.githubusercontent.com/19755484/50388570-5d5bfe00-06e8-11e9-82fd-b8bc0c5aa9b3.png)
 
-> See the live demo [here](https://snipcart-react-gatsby.netlify.com/)
 
-> Read the complete tutorial [here](https://snipcart.com/blog/react-ecommerce-gatsby-tutorial)
+Uses React,Gatsby powered,snipcart for purchases and Graphql
+
