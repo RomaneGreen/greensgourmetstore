@@ -1,7 +1,7 @@
 ---
 title: Mr.Greenbar-Energy bars
 layout: post
-date: 2019-10-18
+date: "New release!"
 id: 1
 image: 
     - name: "default"

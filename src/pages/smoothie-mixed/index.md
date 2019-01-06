@@ -1,7 +1,7 @@
 ---
 title: "The Green Machine - Smoothie mix"
 layout: post
-date: 2019-10-21
+date: "On sale 7/19"
 id: 3
 image:
     - name: "default"

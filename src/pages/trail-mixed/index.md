@@ -1,7 +1,7 @@
 ---
 title: Green Screams - Trail Mix
 layout: post
-date: 2019-10-22
+date: "Top Seller"
 id: 3
 image:
     - name: "default"
