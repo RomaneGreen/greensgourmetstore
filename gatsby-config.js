@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Green's Gourmet's online",
+    title: "Green's Gourmets online",
     author: "Romane G",
     description: "A snipcart's site using React and Gatsby.",
     siteUrl: 'https://greensgourment.com/',

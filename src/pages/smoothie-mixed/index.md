@@ -8,7 +8,7 @@ image:
       src: "smoothie"  
 
 price: 34.99
-path: "/dry-martini/"
+path: "/smoothie-mixed/"
 customFields:
     name: Size  
     values: ['1lb bag']
@@ -16,4 +16,4 @@ customFields:
 description: "A pea protein base with a hint of cherry flavor,wheatgrass and bee pollen"
 ---
 
- "A pea protein base with a hint of cherry flavor,wheatgrass and bee pollen"
+ A pea protein base with a hint of cherry flavor,wheatgrass and bee pollen.
