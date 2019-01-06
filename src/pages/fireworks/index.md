@@ -1,19 +1,19 @@
 ---
-title: Smoothie Mix
+title: Mr.Greenbar-Energy bar
 layout: post
-date: 2018-07-21
+date: 2019-10-18
 id: 1
 image: 
     - name: "default"
-      src: "fireworks"
+      src: "energybar"
 
-price: 67.89
+price: 39.00
 path: "/fireworks/"
 customFields:
-    name: Sounds
-    values: ['Huge BOOM', 'Sparks', 'That long strident sound']
+    name: Amount
+    values: ['12 count']
     
-description: "Smoothies are a noble, traditional way to emphasize the greatness of an event."
+description: "Almond hazelnut butter,brown rice protein,cashews,coconut nectar and bee pollen."
 ---
 
-Fireworks are a noble, traditional way to emphasize the greatness of an event. They command the epic. They are poetry in a dark night sky. They look good, smell strong, and are dangerous to play with. A bit like secret agents.
+Almond hazelnut butter,brown rice protein,cashews,coconut nectar and bee pollen.

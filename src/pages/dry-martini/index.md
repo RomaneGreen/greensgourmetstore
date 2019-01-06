@@ -1,19 +1,19 @@
 ---
-title: Vitamin Pack
+title: "The Green Machine - Smoothie mix"
 layout: post
-date: 2018-07-21
+date: 2019-10-21
 id: 3
 image:
     - name: "default"
-      src: "dry-martini"  
+      src: "smoothie"  
 
-price: 8.50
+price: 34.99
 path: "/dry-martini/"
 customFields:
     name: Size  
-    values: ['Classic', 'Large', 'Gatsby-esque']
+    values: ['1lb bag']
 
-description: "The taste of vitamlity."
+description: "A pea protein base with a hint of cherry flavor,wheatgrass and bee pollen"
 ---
 
-> "Ashwaganda,zinc magnesium blend."
+ "A pea protein base with a hint of cherry flavor,wheatgrass and bee pollen"
