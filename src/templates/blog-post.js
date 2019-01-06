@@ -33,7 +33,7 @@ class BlogPostTemplate extends React.Component {
           script={[{ 
             type: 'text/javascript',
             id: "snipcart",
-            "data-api-key": "YjdiNWIyOTUtZTIyMy00MWMwLTkwNDUtMzI1M2M2NTgxYjE0",
+            "data-api-key": "OThhNzc1ZWUtZTc4Yy00MzIxLTk5NTUtNjAwYzZkY2ZmMmExNjM2ODE0ODgzNDA5NzU5MjU0",
             src:"https://cdn.snipcart.com/scripts/2.0/snipcart.js" 
           },{
             type: 'text/javascript',

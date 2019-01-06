@@ -1,5 +1,5 @@
 ---
-title: Fireworks
+title: Smoothie Mix
 layout: post
 date: 2018-07-21
 id: 1
@@ -13,7 +13,7 @@ customFields:
     name: Sounds
     values: ['Huge BOOM', 'Sparks', 'That long strident sound']
     
-description: "Fireworks are a noble, traditional way to emphasize the greatness of an event."
+description: "Smoothies are a noble, traditional way to emphasize the greatness of an event."
 ---
 
 Fireworks are a noble, traditional way to emphasize the greatness of an event. They command the epic. They are poetry in a dark night sky. They look good, smell strong, and are dangerous to play with. A bit like secret agents.
