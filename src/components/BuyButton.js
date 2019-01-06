@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 
-var BuyButton = React.memo(({post, images}) => {
-  const [selected, setSelected] = useState(post.customFields.values[0]);
-  var filteredImgs = images.filter(x => x.name == selected);
-  var choosenImgSrc = filteredImgs.length > 0
+const BuyButton = React.memo(({post, images}) => {
+   const [selected, setSelected] = useState(post.customFields.values[0]);
+  let filteredImgs = images.filter(x => x.name == selected);
+  let choosenImgSrc = filteredImgs.length > 0
     ? filteredImgs[0].src
     : images[0].src
 
