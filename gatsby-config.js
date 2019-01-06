@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "Greens Gourmet's online",
-    author: "Snipcart's geeks",
-    description: "A snipcart's demo using React and Gatsby.",
-    siteUrl: 'https://snipcart-react-gatsby.netlify.com/',
+    title: "Green's Gourmet's online",
+    author: "Romane G",
+    description: "A snipcart's site using React and Gatsby.",
+    siteUrl: 'https://greensgourment.com/',
   },
   pathPrefix: '/gatsby-starter-blog',
   plugins: [
