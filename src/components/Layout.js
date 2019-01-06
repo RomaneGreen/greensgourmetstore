@@ -70,7 +70,7 @@ class Layout extends React.Component {
         />
         <div style={{
           textAlign: 'center'
-        }}>Made with <span style={{color: 'red'}}>&#10084;</span> by <a target="_blank" href="https://snipcart.com">Snipcart</a></div>
+        }}> <a target="_blank" href="https://greensgourmet.com"> Return Home</a></div>
       </div>
     )
   }
